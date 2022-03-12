@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\bin\Debug\net5.0\Grpc.Data.deps.json
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\bin\Debug\net5.0\Grpc.Data.dll
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\bin\Debug\net5.0\ref\Grpc.Data.dll
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\bin\Debug\net5.0\Grpc.Data.pdb
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\obj\Debug\net5.0\Grpc.Data.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\obj\Debug\net5.0\Grpc.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\obj\Debug\net5.0\Grpc.Data.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\obj\Debug\net5.0\Grpc.Data.AssemblyInfo.cs
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\obj\Debug\net5.0\Grpc.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\obj\Debug\net5.0\Grpc.Data.dll
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\obj\Debug\net5.0\ref\Grpc.Data.dll
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\obj\Debug\net5.0\Grpc.Data.pdb
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\bin\Debug\net5.0\Grpc.Data.runtimeconfig.json
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\bin\Debug\net5.0\Grpc.Data.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Grpc.Services\Grpc.Data\obj\Debug\net5.0\Grpc.Data.genruntimeconfig.cache

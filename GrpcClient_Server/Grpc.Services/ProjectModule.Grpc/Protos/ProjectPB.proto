@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option csharp_namespace = "ProjectModule.Grpc.Protos";
+service ProjectPBProtoService {
+
+	rpc VerifyProjectExist (VerifyProjectRequest) returns (VerifyProjectResponse);
+	
+}
+message ProjectModel {
+	int32 id = 1;
+	string Title = 2;
+	string description = 3;
+	
+}
+message VerifyProjectRequest {
+  int32 id =1;
+}
+
+message VerifyProjectResponse {
+  bool Exist = 1;
+}

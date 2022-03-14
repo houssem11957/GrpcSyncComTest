@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2b0vo8CrEOijJYCBfDoBll/q8Agn3P6gjqFEKn5j4vbmUYR+GFDRgBjvfNdeUzdWDXTkCOYWapojWJGLi3JXiw==",
+  "dgSpecHash": "PVdyCYw04VriZFD0/sIEffZq/Q5HWkfTpR00mY6x4yFfpi+FPraQWw3zN33i+KGsFPTxG97+waBCzNhxvHiGag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\source\\repos\\GrpcExp\\ConsoleGrpcClient\\ConsoleGrpcClient.csproj",
+  "projectFilePath": "C:\\Training\\Communication\\Synchrounous\\Grpc\\GrpcClient_Server\\GrpcExp\\ConsoleGrpcClient\\ConsoleGrpcClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\grpc.core.api\\2.43.0\\grpc.core.api.2.43.0.nupkg.sha512",
